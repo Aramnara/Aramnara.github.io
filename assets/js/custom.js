@@ -36,7 +36,7 @@
 
 		$('#intro').backstretch([
 			'assets/images/slide1.jpg',
-			'assets/images/slide2.png',
+			'assets/images/slide5.png',
 			'assets/images/slide3.jpg'
 		], {duration: 3000, fade: 750});
 
