@@ -35,9 +35,9 @@
 		/* ---------------------------------------------- */
 
 		$('#intro').backstretch([
-			'assets/images/me2.jpg',
-			'assets/images/nyc2.jpeg',
-			'assets/images/me4.jpeg'
+			'assets/images/slide1.jpg',
+			'assets/images/slide2.png',
+			'assets/images/slide3.jpg'
 		], {duration: 3000, fade: 750});
 
 		/* ---------------------------------------------- /*
